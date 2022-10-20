@@ -4,4 +4,4 @@
     - Arabica
     - EthiopianGrand
     - Decaf
-    - HazelnutGold
+    - HazelnutGold ( 50% off)
